@@ -4,7 +4,7 @@ We have developed a 3 layered license plate detection and recognition system for
 
 ![Imgur](https://i.imgur.com/KTvI1R1.png)
 
-
+## Accuracy Table
  
 | Phase          | Accuracy | 
 | :---           | :---     | 
